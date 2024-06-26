@@ -1,0 +1,6 @@
+.sider-bar {
+    flex-basis: 20%;
+    background-color: blue;
+    color: #fff;
+    height: 500px;
+}
